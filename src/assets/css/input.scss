@@ -1,0 +1,10 @@
+$border-color: rgb(202, 202, 202);
+
+.add-todo-input {
+  width: 90%;
+  height: 40px;
+  padding: 8px;
+  border: 0.4px solid $border-color;
+  outline: none;
+  border-radius: 4px;
+}

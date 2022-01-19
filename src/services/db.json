@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "content": "todo1",
+      "isChecked": true,
+      "createdAt": "2022-01-19T13:59:19.071Z",
+      "id": 10
+    },
+    {
+      "content": "todo2",
+      "isChecked": false,
+      "createdAt": "2022-01-19T13:59:24.978Z",
+      "id": 11
+    },
+    {
+      "content": "todo3",
+      "isChecked": false,
+      "createdAt": "2022-01-19T13:59:28.454Z",
+      "id": 12
+    },
+    {
+      "content": "todo4",
+      "isChecked": true,
+      "createdAt": "2022-01-19T13:59:33.120Z",
+      "id": 13
+    }
+  ]
+}
